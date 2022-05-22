@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\bin\Debug\Services.dll.config
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\bin\Debug\Services.dll
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\bin\Debug\Services.pdb
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\bin\Debug\Entities.dll
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\bin\Debug\Entities.pdb
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\obj\Debug\Services.dll
+C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\Services\obj\Debug\Services.pdb
