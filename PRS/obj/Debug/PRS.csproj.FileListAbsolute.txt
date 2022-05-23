@@ -19,3 +19,24 @@ C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\PRS\obj\Debug\P
 C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\PRS\obj\Debug\PRS.csproj.GenerateResource.Cache
 C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\PRS\obj\Debug\PRS.exe
 C:\Users\user\OneDrive\documents\visual studio 2015\Projects\PRS\PRS\obj\Debug\PRS.pdb
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\bin\Debug\PRS.exe.config
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\obj\Debug\PRS.exe
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\obj\Debug\PRS.pdb
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\bin\Debug\PRS.exe
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\bin\Debug\PRS.pdb
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\bin\Debug\Entities.dll
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\bin\Debug\Services.dll
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\bin\Debug\Entities.pdb
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\bin\Debug\Services.pdb
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\obj\Debug\PRS.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\obj\Debug\PRS.FrmDisplayPatients.resources
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\obj\Debug\PRS.FrmNotification.resources
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\obj\Debug\PRS.FrmPatientRegistration.resources
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\obj\Debug\PRS.FrmWelcome.resources
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\obj\Debug\PRS.Properties.Resources.resources
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\obj\Debug\PRS.Resources.FrmPatientInformation.resources
+C:\Users\user\source\repos\Patient-Registration-System-Demo-PRS-\PRS\obj\Debug\PRS.csproj.GenerateResource.Cache

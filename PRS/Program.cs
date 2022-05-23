@@ -16,7 +16,7 @@ namespace PRS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmDisplayPatients());
+            Application.Run(new FrmWelcome());
         }
     }
 }

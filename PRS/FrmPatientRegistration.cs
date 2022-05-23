@@ -50,6 +50,7 @@ namespace PRS
                     var entity = _dbService.SavePatient(model);
                     if (entity != null)
                     {
+                        FrmDisplayPatients displayPatients = new FrmDisplayPatients(true);
                         notification.DisplayMessage(message:"Patient successfully saved !", title:"Patient");
                         frmDisplayPatients.Show();
                         this.Hide();
@@ -65,7 +66,7 @@ namespace PRS
         private void FrmPatientRegistration_Load(object sender, EventArgs e)
         {
             FormBorderStyle = FormBorderStyle.Fixed3D;
-            WindowState = FormWindowState.Minimized;
+            WindowState = FormWindowState.Maximized;
         }
 
         public void GetLookups()

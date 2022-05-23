@@ -21,6 +21,7 @@ namespace PRS
         FrmNotification notification;
         string IdNo = string.Empty;
         string Message = string.Empty;
+        bool IsUpdateGrid = false;
 
         int PagesCount = 1;
         int PageSize = 10;
@@ -29,7 +30,21 @@ namespace PRS
         public FrmDisplayPatients()
         {
             InitializeComponent();
-            LstPatients = PopulateGrid().ToList();
+            if (IsUpdateGrid.Equals(false))
+            {
+                LstPatients = PopulateGrid().ToList();
+            }
+            else
+            {
+                this.RefreshGrid();
+            }
+        }
+        public FrmDisplayPatients(bool isUpdated)
+        {
+            if (isUpdated.Equals(true))
+            {
+                IsUpdateGrid = isUpdated;
+            }      
         }
         private void FrmDisplayPatients_Load(object sender, EventArgs e)
         {
@@ -87,7 +102,17 @@ namespace PRS
         // * reset or refresh grid
         private void btnReset_Click(object sender, EventArgs e)
         {
+            this.RefreshGrid();
+        }
+
+        public void RefreshGrid()
+        {
+            LstPatients = new List<Patient>();
+            LstPatients = this.PopulateGrid().ToList();
+            dgvPatients.DataSource = "";
             dgvPatients.DataSource = LstPatients;
+            dgvPatients.Refresh();
+
         }
         private void patientBindingSource_CurrentChanged(object sender, EventArgs e)
         {}
